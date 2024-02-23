@@ -1,6 +1,6 @@
 # Oceanic Harmony
 
-![Oceanic Harmony](oceanic_harmony_image.jpg)
+![Oceanic Harmony](oceanic_harmony_image.png)
 
 Oceanic Harmony is a web application dedicated to marine conservation. It provides resources and tools for individuals to learn about marine ecosystems, participate in conservation efforts, and contribute to the protection of our oceans.
 
